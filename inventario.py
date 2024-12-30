@@ -128,26 +128,26 @@ while opcion != "7":
     elif opcion == "2":
         mostrar_productos()
 
-# Opción 3: Eiminar
+# Opción 3: Eiminar Producto
     elif opcion == "3":
         mostrar_productos()
         ingreso_usuario = int(input("Ingrese el id del producto que desea eliminar"))
         eliminar_producto(ingreso_usuario)
 
-# Opción 4: actualizar
+# Opción 4: actualizar un producto
 
     elif opcion == "4":
         mostrar_productos()
         ingreso_usuario = int(input("Ingrese el id del producto que desea actualizar"))
         actualizar_producto(ingreso_usuario)
 
-# Opción 5: Buscar
+# Opción 5: Buscar producto por Id
 
     elif opcion == "5":
         ingreso_usuario = int(input("Ingrese el id del producto que desea buscar"))
         buscar_producto(ingreso_usuario)
 
-# Opción 6:  Connsulta
+# Opción 6:  Connsulta Alerta de Stock
 
     elif opcion == "6":
         ingreso_usuario = int(input("Ingrese el limite de stock a consultar"))
