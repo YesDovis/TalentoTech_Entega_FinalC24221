@@ -90,18 +90,6 @@ def reporte_bajo_stock(limite):
 
 
 
-#reporte_bajo_stock(30)
-#actualizar_producto(1)
-
-
-
-
-#buscar_producto(1)
-#eliminar_producto(1)
-#mostrar_productos()
-
-
-
 # Menú principal
 
 opcion = ""
@@ -167,7 +155,7 @@ while opcion != "7":
 
 # Opción 7: Salida
 
-    elif opcion == 7:
+    elif opcion == "7":
         print("Vuelva prontossss.")
     else:
         print("Opción no encontrada. Intente de nuevo.")
