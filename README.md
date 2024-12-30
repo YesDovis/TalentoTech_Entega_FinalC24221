@@ -69,7 +69,7 @@ ___
 `Codigo` 
 
 <div aling="center">
-    <img src="/img/2a.jpg.jpg">
+    <img src="/img/2a.jpg">
 </div>
 
 
