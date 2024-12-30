@@ -64,7 +64,7 @@ ___
 `Codigo` 
 
 <div aling="center">
-    <img src="/img/2.jpg">
+    <img src="/img/2a.jpg.jpg">
 </div>
 
 
@@ -114,9 +114,6 @@ ___
 </div>
 
 
-<div aling="center">
-    <img src="/img/4b.jpg">
-</div>
 ___
 
 ### Listado Completo:
